@@ -10,6 +10,9 @@
     "format": "prettier --write '**/*.{ts,js,css,json,md}'",
     "build:types": "tsc -d --declarationDir ./dist/types --declarationMap --emitDeclarationOnly"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EduM22/test-package.git"
