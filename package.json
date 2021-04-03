@@ -1,6 +1,6 @@
 {
-  "name": "@edum22/test-package",
-  "version": "1.0.0",
+  "name": "test-package",
+  "version": "1.0.1",
   "description": "test ts package",
   "main": "./dist/index.js",
   "types": "./dist/types/indes.d.ts",
